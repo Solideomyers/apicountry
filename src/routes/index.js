@@ -1,6 +1,6 @@
 const { Router } = require("express");
 const countryRoutes = require("./countryRoutes");
-const activityRoutes = require("./activityRoutes");
+const activityRoutes = requir("./activityRoutes.js");
 
 const router = Router();
 
